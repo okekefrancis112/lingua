@@ -53,7 +53,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/mendsalbert/lingua-speak.git
+git clone https://github.com/okekefrancis112/lingua.git
 cd lingua-speak
 ```
 
